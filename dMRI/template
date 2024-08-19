@@ -1,0 +1,13 @@
+# file: scratch/kg98/stuarto-HCP
+# owner: stuarto
+# group: kg98
+# flags: -s-
+user::rwX
+user:stuarto:rwX
+user:aurina:rwX
+group::r-X
+group:hcpdata:r-X
+group:kg98:r-X
+mask::rwX
+other::---
+
